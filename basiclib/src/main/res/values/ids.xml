@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawerLayout" type="id"/>
+    <item name="drawerContent" type="id"/>
+    <item name="navigationView" type="id"/>
+    <item name="pageContainer" type="id"/>
+    <item name="baseDialogTitle" type="id"/>
+    <item name="baseWebProgressBar" type="id"/>
+    <item name="smartRefreshLayout" type="id"/>
+    <item name="recyclerView" type="id"/>
+    <item name="baseWebView" type="id"/>
+    <item name="baseTvLoadingMessage" type="id"/>
+    <item name="errorContainer" type="id"/>
+    <item name="tvError" type="id"/>
+    <item name="navLayout" type="id"/>
+    <item name="tvTitle" type="id"/>
+    <item name="tvErrorRetry" type="id"/>
+    <item name="emptyContainer" type="id"/>
+    <item name="tvEmpty" type="id"/>
+    <item name="loadingContainer" type="id"/>
+    <item name="tabLayout" type="id"/>
+    <item name="viewPager" type="id"/>
+    <item name="floatingActionButton" type="id"/>
+    <item name="tvPopItem" type="id"/>
+    <item name="appBarLayout" type="id"/>
+    <item name="statusView" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="placeholder" type="id"/>
+    <item name="bottomBar" type="id"/>
+    <item name="container" type="id"/>
+</resources>
